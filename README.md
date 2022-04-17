@@ -8,32 +8,23 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 <b>Customers DataFrame & Customers Table</b>
 
-<p float="left">
-    <img src="/Resources/customers_df.png"/>
-    <img src="/Resources/customers_table.png"/>
-</p>
+<img src="/Resources/customers_df.png"/>
+<img src="/Resources/customers_table.png"/>
 
 <b>Products DataFrame & Products Table</b>
 
-<p float="left">
-    <img src="/Resources/products_df.png"/>
-    <img src="/Resources/products_table.png"/>
-</p>
-
+<img src="/Resources/products_df.png"/>
+<img src="/Resources/products_table.png"/>
+    
 <b>Review ID DataFrame & Review ID Table</b>
 
-<p float="left">
-    <img src="/Resources/review_id_df.png"/>
-    <img src="/Resources/review_id_table.png"/>
-</p>
+<img src="/Resources/review_id_df.png"/>
+<img src="/Resources/review_id_table.png"/>
 
 <b>Vine DataFrame & Vine Table</b>
 
-<p float="left">
-    <img src="/Resources/vine_df.png"/>
-    <img src="/Resources/vine_table.png"/>
-</p>
-
+<img src="/Resources/vine_df.png"/>
+<img src="/Resources/vine_table.png"/>
 
 ## Results
 
